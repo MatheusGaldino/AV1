@@ -8,6 +8,5 @@ public class Caneta {
         this.cor = cor;
         this.carga = carga;
         this.marca = marca;
-    }
-    
+  }
 }
